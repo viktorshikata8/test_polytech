@@ -233,88 +233,88 @@ def draw():
             if x2 in range(0,200):                            
                 if y2 in range(y1-50,y1+50):
                         game_over =  True
-            if x3 in range(0,100):
+            if x3 in range(0,200):
                 if y3 in range(y1-50,y1+50):
                         game_over =  True
-            if x4 in range(0,100):                            
+            if x4 in range(0,200):                            
                 if y4 in range(y1-50,y1+50):
                     game_over =  True
-            if x5 in range(0,100):                            
+            if x5 in range(0,200):                            
                 if y5 in range(y1-50,y1+50):
                     game_over =  True
-            if x6 in range(0,100):                            
+            if x6 in range(0,200):                            
                 if y6 in range(y1-50,y1+50):
                     game_over =  True
-            if x7 in range(0,100):                            
+            if x7 in range(0,200):                            
                 if y7 in range(y1-50,y1+50):
                     game_over =  True
-            if x8 in range(0,100):                            
+            if x8 in range(0,200):                            
                 if y8 in range(y1-50,y1+50):
                     game_over =  True
-            if x9 in range(0,100):                            
+            if x9 in range(0,200):                            
                 if y9 in range(y1-50,y1+50):
                     game_over =  True
-            if x10 in range(0,100):                            
+            if x10 in range(0,200):                            
                 if y10 in range(y1-50,y1+50):
                     game_over =  True
-            if x11 in range(0,100):                            
+            if x11 in range(0,200):                            
                 if y11 in range(y1-50,y1+50):
                     game_over =  True
-            if x12 in range(0,100):                            
+            if x12 in range(0,200):                            
                 if y12 in range(y1-50,y1+50):
                     game_over =  True
-            if x13 in range(0,100):                            
+            if x13 in range(0,200):                            
                 if y13 in range(y1-50,y1+50):
                     game_over =  True
-            if x14 in range(0,100):                            
+            if x14 in range(0,200):                            
                 if y14 in range(y1-50,y1+50):
                     game_over =  True
-            if x15 in range(0,100):                            
+            if x15 in range(0,200):                            
                 if y15 in range(y1-50,y1+50):
                     game_over =  True
-            if x16 in range(0,100):                            
+            if x16 in range(0,200):                            
                 if y16 in range(y1-50,y1+50):
                     game_over =  True
-            if x17 in range(0,100):                            
+            if x17 in range(0,200):                            
                 if y17 in range(y1-50,y1+50):
                     game_over =  True
-            if x18 in range(0,100):                            
+            if x18 in range(0,200):                            
                 if y18 in range(y1-50,y1+50):
                     game_over =  True
-            if x19 in range(0,100):                            
+            if x19 in range(0,200):                            
                 if y19 in range(y1-50,y1+50):
                     game_over =  True
-            if x20 in range(0,100):                            
+            if x20 in range(0,200):                            
                 if y20 in range(y1-50,y1+50):
                     game_over =  True
-            if x21 in range(0,100):                            
+            if x21 in range(0,200):                            
                 if y21 in range(y1-50,y1+50):
                     game_over =  True
-            if x22 in range(0,100):                            
+            if x22 in range(0,200):                            
                 if y22 in range(y1-50,y1+50):
                     game_over =  True
-            if x23 in range(0,100):                            
+            if x23 in range(0,200):                            
                 if y23 in range(y1-50,y1+50):
                     game_over =  True
-            if x24 in range(0,100):                            
+            if x24 in range(0,200):                            
                 if y24 in range(y1-50,y1+50):
                     game_over =  True
-            if x25 in range(0,100):                            
+            if x25 in range(0,200):                            
                 if y25 in range(y1-50,y1+50):
                     game_over =  True
-            if x26 in range(0,100):                            
+            if x26 in range(0,200):                            
                 if y26 in range(y1-50,y1+50):
                     game_over =  True
-            if x27 in range(0,100):                            
+            if x27 in range(0,200):                            
                 if y27 in range(y1-50,y1+50):
                     game_over =  True
-            if x28 in range(0,100):                            
+            if x28 in range(0,200):                            
                 if y28 in range(y1-50,y1+50):
                     game_over =  True                                                                                                
-            if x29 in range(0,100):                            
+            if x29 in range(0,200):                            
                 if y29 in range(y1-50,y1+50):
                     game_over =  True                                                                                                
-            if x30 in range(0,100):                            
+            if x30 in range(0,200):                            
                 if y30 in range(y1-50,y1+50):
                     game_over =  True       
                                                                                                                  
